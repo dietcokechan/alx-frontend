@@ -397,7 +397,7 @@ body {
     line-height: var(--line-height-base);
 }
 
-header {
+.header {
     padding: var(--header-padding);
 }
 
