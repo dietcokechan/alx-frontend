@@ -662,7 +662,7 @@ ul.row {
     content: "";
 }
 
-.cardwork:hover .card-title {
+.card-work:hover .card-title {
     opacity: 1;
 }
 
